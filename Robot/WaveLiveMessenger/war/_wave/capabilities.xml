@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<w:robot xmlns:w="http://wave.google.com/extensions/robots/1.0">
+  <w:capabilities>
+    <w:capability name="FORM_BUTTON_CLICKED" content="true" />
+  </w:capabilities>
+  <w:crons> 
+    <w:cron path="/_wave/robot/jsonrpc" timerinseconds="2" /> 
+  </w:crons> 
+  <w:version>1</w:version>
+</w:robot>

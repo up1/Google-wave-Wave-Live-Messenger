@@ -1,0 +1,8 @@
+Chat to messenger contacts from google wave. Visit http://wave.to/robots/starifybot/ for more information and instructions on how to test.
+
+Project consists of two parts.
+
+a.)Server
+b.)Robot
+
+Robot communicates to server. Server communicates with Live Messenger servers. The reason this has been done is to circumvent the restrictions of the Google app engine
